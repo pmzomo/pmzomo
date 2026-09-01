@@ -22,7 +22,7 @@ audio transcription and 3D LiDAR point-cloud work, including quality systems and
 scale. It's given me an unusually concrete view of what production ML actually eats — and why data
 quality is where most model problems start.
 
-**Consulting** — I run [Sayari Cyber](https://github.com/pmzomo), an IT consultancy and software
+**Consulting** — I run **Sayari Cyber**, an IT consultancy and software
 development practice serving clients across web, backend and infrastructure work.
 
 ---
