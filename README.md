@@ -1,4 +1,4 @@
-## Hi, I'm Peter Mwongela Nzomo 👋
+ 👋
 
 Full-stack engineer and systems architect based in Nairobi, Kenya. I've spent about ten years building
 production software end to end — designing fault-tolerant architectures, low-latency data pipelines and
