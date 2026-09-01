@@ -1,4 +1,4 @@
-## Hi, I'm Peter Mwongela Nzomo 👋
+👋
 
 Backend and platform engineer based in Nairobi, Kenya, with ten years of production experience, and most of
 it has been spent owning systems end to end: the data model, the API contract, the services in between, the
