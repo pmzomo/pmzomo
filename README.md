@@ -1,7 +1,7 @@
-👋
+## Hi, I'm Peter Mwongela Nzomo 👋
 
-Backend and platform engineer based in Nairobi, Kenya, with ten years of production experience — most of
-it spent owning systems end to end: the data model, the API contract, the services in between, the
+Backend and platform engineer based in Nairobi, Kenya, with ten years of production experience, and most of
+it has been spent owning systems end to end: the data model, the API contract, the services in between, the
 infrastructure they run on, and the deploy path that gets them there.
 
 Recent work has been increasingly infrastructure-heavy and latency-sensitive: real-time ingestion
@@ -16,21 +16,21 @@ you claim an improvement.
 
 ### What I work on
 
-**Backend & architecture** — API design and governance, service decomposition, data modelling, caching
+**Backend & architecture:** API design and governance, service decomposition, data modelling, caching
 and queueing, event-driven integration, and the boring reliability work that keeps all of it running.
 
-**Platform & infrastructure** — I design it and then run it: per-service isolation, scripted zero-touch
+**Platform & infrastructure.** I design it and then run it: per-service isolation, scripted zero-touch
 deploys, TLS automation, remote provisioning over SSH, and the operational work of keeping distributed
 services healthy.
 
-**Performance** — latency budgeting and end-to-end measurement, hot-path profiling, warm state and
+**Performance:** latency budgeting and end-to-end measurement, hot-path profiling, warm state and
 connection pooling, async I/O and parallel execution. On one system I cut the critical path from 506 ms
 to 210 ms against a 350 ms requirement by getting blocking calls off the hot path.
 
-**AI & ML integration** — LLM services behind production APIs, structured and schema-constrained output,
+**AI & ML integration:** LLM services behind production APIs, structured and schema-constrained output,
 retrieval patterns, and automated evaluation harnesses that score output against written criteria.
 
-**Consulting** — I run **Sayari Cyber**, an IT consultancy and software development practice serving
+**Consulting.** I run **Sayari Cyber**, an IT consultancy and software development practice serving
 clients across web, backend and infrastructure work.
 
 ---
@@ -65,6 +65,6 @@ machine learning systems into production and keeping them there.
 - 📫 **pmzomo@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/peter-nzomo-31689a8a)
 - 🐦 [@pmwongela](https://x.com/pmwongela)
-- 🌍 Nairobi, Kenya — open to remote and onsite
+- 🌍 Nairobi, Kenya (open to remote and onsite)
 
 Fluent in English and Kiswahili.
