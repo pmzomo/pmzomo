@@ -1,18 +1,4 @@
-👋
-
-Backend and platform engineer based in Nairobi, Kenya, with ten years of production experience, and most of
-it has been spent owning systems end to end: the data model, the API contract, the services in between, the
-infrastructure they run on, and the deploy path that gets them there.
-
-Recent work has been increasingly infrastructure-heavy and latency-sensitive: real-time ingestion
-pipelines in Python and Rust against hard end-to-end budgets, self-managed multi-service Linux platforms
-running production applications, unattended scheduled evaluation jobs that write auditable output, and
-LLM integration inside a live multi-tenant product.
-
-I care about systems that stay up: clear service boundaries, sane failure modes, and measurement before
-you claim an improvement.
-
----
+Hello, snooper 
 
 ### What I work on
 
